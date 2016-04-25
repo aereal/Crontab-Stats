@@ -1,0 +1,6 @@
+name = "Crontab-Stats"
+# badges = ["travis"]
+authority="cpan:AEREAL"
+
+module_maker="ModuleBuildTiny"
+
